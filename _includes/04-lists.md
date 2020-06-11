@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Subunkin Goldfish
+- Furbys
+- My pet Giant African Land Snail
