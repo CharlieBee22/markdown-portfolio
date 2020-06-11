@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_My pet snail is called Pixie, they're **2 and a half years old** and have grown **A LOT!** Pixie is albino with a golden yellow shell, keeping their skin nice and clean is a challenge when they *hate* baths, but bribery with snacks works very well._
