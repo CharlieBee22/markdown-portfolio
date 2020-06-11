@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mona Lovelace, an Octocat version of Ada Lovelace](https://octodex.github.com/images/mona-lovelace.jpg)
